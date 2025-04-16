@@ -6,4 +6,4 @@
 <a href="https://www.tiktok.com/@noctisroot" target="_blank"><img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok"></a>
 
 ![Stats GitHub](https://github-readme-stats.vercel.app/api?username=emanuel-sec&show_icons=true&theme=dark)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emanuel-sec&hide=html,css,scss,javascript&layout=compact&theme=dark&exclude_repo=Loja-Virtual-NodeJS)](https://github.com/emanuel-sec)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emanuel-sec&hide=html,css,scss&layout=compact&theme=dark&exclude_repo=Loja-Virtual-NodeJS)](https://github.com/emanuel-sec)
