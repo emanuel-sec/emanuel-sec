@@ -1,4 +1,4 @@
-# Information Security Student | Purple Team & Digital Forensics
+# Information Security Student
 > Every system is only as secure as its weakest link — and that link is almost always human.
 
 ### 🌐 **Connect with me**  
